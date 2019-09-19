@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#buttons-list {
+    margin-top: -5px;
+}   
+.btn {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+#add-topic {
+    margin-top: -5px;
+}
+.gifs {
+    display: inline-block;
+    margin-right: 15px;
+}
